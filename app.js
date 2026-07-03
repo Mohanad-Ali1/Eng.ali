@@ -1,1 +1,1 @@
-alert("Fuck Niggers");
+alert("Zepi");
